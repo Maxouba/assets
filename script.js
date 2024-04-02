@@ -63,7 +63,6 @@ function newDots(){
    }
 }
 
-
 function changeImage(position){
     const dot = [...document.querySelectorAll(".dot")];
     dot.forEach(function(element){
